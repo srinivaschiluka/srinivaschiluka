@@ -6,4 +6,4 @@ st.write("""
 Hello *world!* Srinivas!!
 """)
 df = pd.read_csv("oracle_test_data.csv")
-st.write(df)
+st.line_chart(df)

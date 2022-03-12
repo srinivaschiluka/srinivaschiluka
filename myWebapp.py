@@ -4,7 +4,7 @@ import streamlit as st
 st.write("""
 #Sample Stock Price app
 
-Shown are the stock price and volume of MircoSoft!
+Shown are the stock price and volume of Mircosoft corp!
 
 """)
 ts='MSFT'

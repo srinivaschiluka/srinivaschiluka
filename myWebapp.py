@@ -1,6 +1,6 @@
 import yfinance as yf
 import matplotlib.pyplot as plt
-import streamlit as sp
+import streamlitqq as sp
 #srinivas
 
 ts='MSFT'

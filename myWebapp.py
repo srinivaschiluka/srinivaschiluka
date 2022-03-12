@@ -1,7 +1,10 @@
 import yfinance as yf
 import matplotlib.pyplot as plt
-import streamlitqq as sp
+import streamlit as st
+st.write ("""
 #srinivas
+asadfsk
+""")
 
 ts='MSFT'
 tickerdata = yf.Ticker(ts)
